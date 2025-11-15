@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 requests
-plotly
 pydeck
-twilio
-geopandas   # optional
+plotly
+shapely
